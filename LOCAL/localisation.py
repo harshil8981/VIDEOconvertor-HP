@@ -35,11 +35,11 @@ spam_notice = "This bot is hosted on heroku, and hence can just run one process 
 
 JPG = "LOCAL/20220408_201830.jpg"
 
-JPG0 = 'https://telegra.ph/file/6284026347413f174ea51.jpg'
+JPG0 = 'LOCAL/20220408_180939.jpg'
 
-JPG2 = "https://telegra.ph/file/6284026347413f174ea51.jpg"
+JPG2 = "LOCAL/20220408_180939.jpg"
 
-JPG3 = "https://telegra.ph/file/6284026347413f174ea51.jpg"
+JPG3 = "LOCAL/20220408_180939.jpg"
 
-JPG4 = "https://telegra.ph/file/6284026347413f174ea51.jpg"
+JPG4 = "LOCAL/20220408_180939.jpg"
 
