@@ -33,7 +33,7 @@ DEV = "https://t.me/Mrkiller_1109"
 
 spam_notice = "This bot is hosted on heroku, and hence can just run one process at a time.Spamming the bot or encoding adult videos will lead you to a ban."
 
-JPG = "https://telegra.ph/file/6284026347413f174ea51.jpg"
+JPG = "LOCAL/20220408_201830.jpg"
 
 JPG0 = 'https://telegra.ph/file/6284026347413f174ea51.jpg'
 
